@@ -6,7 +6,7 @@ We are going to use Reverse Engineering technique. First we will detect objects 
 ### Step 1
 For Anaconda python Environment <br>
 ```
-conda create -n env` 
+conda create -n env
 Activate env 
 ```
 For Linux <br>
