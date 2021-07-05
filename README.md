@@ -28,3 +28,4 @@ Run `python start_annotation.py`
 
 # Bravooo 
 Your work is done now check Annotations folder.
+![giphy](https://user-images.githubusercontent.com/54155003/124464209-87123780-ddb1-11eb-9eee-eb4ce367e5a8.gif)
