@@ -2,7 +2,7 @@
 <br>![tumblr_maile4kaQO1qj1svso1_500](https://user-images.githubusercontent.com/54155003/124456019-dc494b80-dda7-11eb-84c3-f8ab0eb0abb8.gif)
 
 ## Let's Automate it.
-We are going to use Reverse Engineering technique. First we will detect objects into images the save their bounding box coordinates in XML format.<br>
+We are going to use Reverse Engineering technique. First we will detect objects into images the save their bounding box coordinates as per our requirement in XML format.<br>
 ### Step 1
 For Anaconda python Environment <br>
 ```
