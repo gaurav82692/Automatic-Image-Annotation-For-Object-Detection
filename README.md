@@ -1,4 +1,5 @@
-# Are you tired by doing Annotation manually ?<br><br>![tumblr_maile4kaQO1qj1svso1_500](https://user-images.githubusercontent.com/54155003/124456019-dc494b80-dda7-11eb-84c3-f8ab0eb0abb8.gif)
+# Are you tired by doing Annotation manually ?<br>
+<br>![tumblr_maile4kaQO1qj1svso1_500](https://user-images.githubusercontent.com/54155003/124456019-dc494b80-dda7-11eb-84c3-f8ab0eb0abb8.gif)
 
 ## Let's Automate it.
 We are going to use Reverse Engineering technique. First we will detect objects into images the save their bounding box coordinates in XML format.<br>
@@ -28,4 +29,5 @@ Run `python start_annotation.py`
 
 # Bravooo 
 Your work is done now check Annotations folder.<br>
+<br>
 ![giphy](https://user-images.githubusercontent.com/54155003/124464209-87123780-ddb1-11eb-9eee-eb4ce367e5a8.gif)
