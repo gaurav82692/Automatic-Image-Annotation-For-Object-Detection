@@ -27,4 +27,4 @@ Open `Annotaions.name` file present in configuration directory and edit the Labe
 Run `python start_annotation.py`
 
 # Bravooo 
-Your work is done now check Annotation folder.
+Your work is done now check Annotations folder.
